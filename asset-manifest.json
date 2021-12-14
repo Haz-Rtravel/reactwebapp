@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactwebapp.io/static/css/main.1d0a39ef.chunk.css",
-    "main.js": "/reactwebapp.io/static/js/main.595693a2.chunk.js",
-    "main.js.map": "/reactwebapp.io/static/js/main.595693a2.chunk.js.map",
-    "runtime-main.js": "/reactwebapp.io/static/js/runtime-main.6c54b1c1.js",
-    "runtime-main.js.map": "/reactwebapp.io/static/js/runtime-main.6c54b1c1.js.map",
-    "static/js/2.f61a2635.chunk.js": "/reactwebapp.io/static/js/2.f61a2635.chunk.js",
-    "static/js/2.f61a2635.chunk.js.map": "/reactwebapp.io/static/js/2.f61a2635.chunk.js.map",
-    "static/js/3.f828aa91.chunk.js": "/reactwebapp.io/static/js/3.f828aa91.chunk.js",
-    "static/js/3.f828aa91.chunk.js.map": "/reactwebapp.io/static/js/3.f828aa91.chunk.js.map",
-    "index.html": "/reactwebapp.io/index.html",
-    "static/css/main.1d0a39ef.chunk.css.map": "/reactwebapp.io/static/css/main.1d0a39ef.chunk.css.map",
-    "static/js/2.f61a2635.chunk.js.LICENSE.txt": "/reactwebapp.io/static/js/2.f61a2635.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reactwebapp.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/reactwebapp/static/css/main.1d0a39ef.chunk.css",
+    "main.js": "/reactwebapp/static/js/main.595693a2.chunk.js",
+    "main.js.map": "/reactwebapp/static/js/main.595693a2.chunk.js.map",
+    "runtime-main.js": "/reactwebapp/static/js/runtime-main.b302691e.js",
+    "runtime-main.js.map": "/reactwebapp/static/js/runtime-main.b302691e.js.map",
+    "static/js/2.f59dee01.chunk.js": "/reactwebapp/static/js/2.f59dee01.chunk.js",
+    "static/js/2.f59dee01.chunk.js.map": "/reactwebapp/static/js/2.f59dee01.chunk.js.map",
+    "static/js/3.f828aa91.chunk.js": "/reactwebapp/static/js/3.f828aa91.chunk.js",
+    "static/js/3.f828aa91.chunk.js.map": "/reactwebapp/static/js/3.f828aa91.chunk.js.map",
+    "index.html": "/reactwebapp/index.html",
+    "static/css/main.1d0a39ef.chunk.css.map": "/reactwebapp/static/css/main.1d0a39ef.chunk.css.map",
+    "static/js/2.f59dee01.chunk.js.LICENSE.txt": "/reactwebapp/static/js/2.f59dee01.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactwebapp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c54b1c1.js",
-    "static/js/2.f61a2635.chunk.js",
+    "static/js/runtime-main.b302691e.js",
+    "static/js/2.f59dee01.chunk.js",
     "static/css/main.1d0a39ef.chunk.css",
     "static/js/main.595693a2.chunk.js"
   ]
