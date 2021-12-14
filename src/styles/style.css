@@ -1,0 +1,23 @@
+    .mainLayer{display: flex; width: 100%; height: 100%;}
+    .mainInnerLayer{height: 100%;}
+    .contentBoxDisplay{display: flex; justify-content: space-around;padding-bottom: 20px;padding-top: 20px;}
+    .Xbox{width: 17%;}
+    .sampleImg{background-color: #DFDFDF; border: 1px solid #DFDFDF; justify-content: center; align-items: center; padding: 30%; text-align: center;}
+    .sampleImg2{max-width: 100%; background-color: #DFDFDF; border: 1px solid #DFDFDF; justify-content: center; align-items: center; text-align: center;}
+    .titleText{padding: 2%; font-size: 1.1em;}
+    .mainBanner{margin: 1.6%; height: 130px; background-color: #DFDFDF;}
+
+    #userBox{width: 10%;}
+    #contentBox{width: 90%;}
+
+
+    .videoPlayer{display: flex; flex-direction: column; justify-content: baseline;}
+    .videoPlayerController{display: flex; flex-direction: row; justify-content: space-around;}
+    .captionLayer{display: flex; flex-direction: column; justify-content: space-around;}
+    .captionTitle{display: flex; flex-direction: row; justify-content: space-between;}
+    .VideoInteraction{display: flex; flex-direction: row; justify-content: space-between;}
+
+
+
+
+    .HEADER, .FOOTER{height: 100px; width: 100%; background-color: #000; color: #FFF; display: flex; justify-content: center; align-items: center;}
